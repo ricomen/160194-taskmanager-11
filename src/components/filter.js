@@ -12,7 +12,7 @@ const createfilterMarkup = () => {
       class="filter__label">
         All <span class="filter__all-count">13</span>
     </label>
-  `)
+  `);
 };
 
 export const createFilterTemplate = () => {
